@@ -1,7 +1,7 @@
 [
   {
-    "ville_id": "v1",
-    "ville_name": "Tanger-Assilah",
+    "city_id": "v1",
+    "city_name": "Tanger-Assilah",
     "data": [
       {
         "date": "07/06/2021",
@@ -46,8 +46,8 @@
     ]
   },
   {
-    "ville_id": "v2",
-    "ville_name": "M'diq-Fnideq",
+    "city_id": "v2",
+    "city_name": "M'diq-Fnideq",
     "data": [
       {
         "date": "07/06/2021",
@@ -92,8 +92,8 @@
     ]
   },
   {
-    "ville_id": "v3",
-    "ville_name": "Tétouan",
+    "city_id": "v3",
+    "city_name": "Tétouan",
     "data": [
       {
         "date": "07/06/2021",
@@ -138,8 +138,8 @@
     ]
   },
   {
-    "ville_id": "v4",
-    "ville_name": "Fahs-Anjra",
+    "city_id": "v4",
+    "city_name": "Fahs-Anjra",
     "data": [
       {
         "date": "07/06/2021",
@@ -184,8 +184,8 @@
     ]
   },
   {
-    "ville_id": "v5",
-    "ville_name": "Larache",
+    "city_id": "v5",
+    "city_name": "Larache",
     "data": [
       {
         "date": "07/06/2021",
@@ -230,8 +230,8 @@
     ]
   },
   {
-    "ville_id": "v6",
-    "ville_name": "Al Hoceïma",
+    "city_id": "v6",
+    "city_name": "Al Hoceïma",
     "data": [
       {
         "date": "07/06/2021",
@@ -276,8 +276,8 @@
     ]
   },
   {
-    "ville_id": "v7",
-    "ville_name": "Chefchaouen",
+    "city_id": "v7",
+    "city_name": "Chefchaouen",
     "data": [
       {
         "date": "07/06/2021",
@@ -322,8 +322,8 @@
     ]
   },
   {
-    "ville_id": "v8",
-    "ville_name": " Ouezzane",
+    "city_id": "v8",
+    "city_name": " Ouezzane",
     "data": [
       {
         "date": "07/06/2021",
@@ -368,8 +368,8 @@
     ]
   },
   {
-    "ville_id": "v9",
-    "ville_name": "Oujda-Angad",
+    "city_id": "v9",
+    "city_name": "Oujda-Angad",
     "data": [
       {
         "date": "07/06/2021",
@@ -414,8 +414,8 @@
     ]
   },
   {
-    "ville_id": "v10",
-    "ville_name": "Nador",
+    "city_id": "v10",
+    "city_name": "Nador",
     "data": [
       {
         "date": "07/06/2021",
@@ -460,8 +460,8 @@
     ]
   },
   {
-    "ville_id": "v11",
-    "ville_name": "Driouch",
+    "city_id": "v11",
+    "city_name": "Driouch",
     "data": [
       {
         "date": "07/06/2021",
@@ -506,8 +506,8 @@
     ]
   },
   {
-    "ville_id": "v12",
-    "ville_name": "Jerada",
+    "city_id": "v12",
+    "city_name": "Jerada",
     "data": [
       {
         "date": "07/06/2021",
@@ -552,8 +552,8 @@
     ]
   },
   {
-    "ville_id": "v13",
-    "ville_name": "Berkane",
+    "city_id": "v13",
+    "city_name": "Berkane",
     "data": [
       {
         "date": "07/06/2021",
@@ -598,8 +598,8 @@
     ]
   },
   {
-    "ville_id": "v14",
-    "ville_name": "Taourirt",
+    "city_id": "v14",
+    "city_name": "Taourirt",
     "data": [
       {
         "date": "07/06/2021",
@@ -644,8 +644,8 @@
     ]
   },
   {
-    "ville_id": "v15",
-    "ville_name": "Figuig",
+    "city_id": "v15",
+    "city_name": "Figuig",
     "data": [
       {
         "date": "07/06/2021",
@@ -690,8 +690,8 @@
     ]
   },
   {
-    "ville_id": "v16",
-    "ville_name": "Guercif",
+    "city_id": "v16",
+    "city_name": "Guercif",
     "data": [
       {
         "date": "07/06/2021",
@@ -736,8 +736,8 @@
     ]
   },
   {
-    "ville_id": "v17",
-    "ville_name": "Fès",
+    "city_id": "v17",
+    "city_name": "Fès",
     "data": [
       {
         "date": "07/06/2021",
@@ -782,8 +782,8 @@
     ]
   },
   {
-    "ville_id": "v18",
-    "ville_name": "Meknès",
+    "city_id": "v18",
+    "city_name": "Meknès",
     "data": [
       {
         "date": "07/06/2021",
@@ -828,8 +828,8 @@
     ]
   },
   {
-    "ville_id": "v19",
-    "ville_name": "Taza",
+    "city_id": "v19",
+    "city_name": "Taza",
     "data": [
       {
         "date": "07/06/2021",
@@ -874,8 +874,8 @@
     ]
   },
   {
-    "ville_id": "v20",
-    "ville_name": "El Hajeb",
+    "city_id": "v20",
+    "city_name": "El Hajeb",
     "data": [
       {
         "date": "07/06/2021",
@@ -920,8 +920,8 @@
     ]
   },
   {
-    "ville_id": "v21",
-    "ville_name": "Ifrane",
+    "city_id": "v21",
+    "city_name": "Ifrane",
     "data": [
       {
         "date": "07/06/2021",
@@ -966,8 +966,8 @@
     ]
   },
   {
-    "ville_id": "v22",
-    "ville_name": "Moulay Yaâcoub",
+    "city_id": "v22",
+    "city_name": "Moulay Yaâcoub",
     "data": [
       {
         "date": "07/06/2021",
@@ -1012,8 +1012,8 @@
     ]
   },
   {
-    "ville_id": "v23",
-    "ville_name": "Séfrou",
+    "city_id": "v23",
+    "city_name": "Séfrou",
     "data": [
       {
         "date": "07/06/2021",
@@ -1058,8 +1058,8 @@
     ]
   },
   {
-    "ville_id": "v24",
-    "ville_name": "Boulemane",
+    "city_id": "v24",
+    "city_name": "Boulemane",
     "data": [
       {
         "date": "07/06/2021",
@@ -1104,8 +1104,8 @@
     ]
   },
   {
-    "ville_id": "v25",
-    "ville_name": "Taounate",
+    "city_id": "v25",
+    "city_name": "Taounate",
     "data": [
       {
         "date": "07/06/2021",
@@ -1150,8 +1150,8 @@
     ]
   },
   {
-    "ville_id": "26",
-    "ville_name": "Rabat",
+    "city_id": "26",
+    "city_name": "Rabat",
     "data": [
       {
         "date": "07/06/2021",
@@ -1196,8 +1196,8 @@
     ]
   },
   {
-    "ville_id": "v27",
-    "ville_name": "Salé",
+    "city_id": "v27",
+    "city_name": "Salé",
     "data": [
       {
         "date": "07/06/2021",
@@ -1242,8 +1242,8 @@
     ]
   },
   {
-    "ville_id": "v28",
-    "ville_name": "Skhirate-Témara",
+    "city_id": "v28",
+    "city_name": "Skhirate-Témara",
     "data": [
       {
         "date": "07/06/2021",
@@ -1288,8 +1288,8 @@
     ]
   },
   {
-    "ville_id": "v29",
-    "ville_name": "Kénitra",
+    "city_id": "v29",
+    "city_name": "Kénitra",
     "data": [
       {
         "date": "07/06/2021",
@@ -1334,8 +1334,8 @@
     ]
   },
   {
-    "ville_id": "v30",
-    "ville_name": "Khémisset",
+    "city_id": "v30",
+    "city_name": "Khémisset",
     "data": [
       {
         "date": "07/06/2021",
@@ -1380,8 +1380,8 @@
     ]
   },
   {
-    "ville_id": "v31",
-    "ville_name": "Sidi Kacem",
+    "city_id": "v31",
+    "city_name": "Sidi Kacem",
     "data": [
       {
         "date": "07/06/2021",
@@ -1426,8 +1426,8 @@
     ]
   },
   {
-    "ville_id": "v32",
-    "ville_name": "Sidi Slimane",
+    "city_id": "v32",
+    "city_name": "Sidi Slimane",
     "data": [
       {
         "date": "07/06/2021",
@@ -1472,8 +1472,8 @@
     ]
   },
   {
-    "ville_id": "v33",
-    "ville_name": "Béni-Mellal",
+    "city_id": "v33",
+    "city_name": "Béni-Mellal",
     "data": [
       {
         "date": "07/06/2021",
@@ -1518,8 +1518,8 @@
     ]
   },
   {
-    "ville_id": "v34",
-    "ville_name": "Azilal",
+    "city_id": "v34",
+    "city_name": "Azilal",
     "data": [
       {
         "date": "07/06/2021",
@@ -1564,8 +1564,8 @@
     ]
   },
   {
-    "ville_id": "v35",
-    "ville_name": "Fquih Ben Salah",
+    "city_id": "v35",
+    "city_name": "Fquih Ben Salah",
     "data": [
       {
         "date": "07/06/2021",
@@ -1610,8 +1610,8 @@
     ]
   },
   {
-    "ville_id": "v36",
-    "ville_name": "Khénifra",
+    "city_id": "v36",
+    "city_name": "Khénifra",
     "data": [
       {
         "date": "07/06/2021",
@@ -1656,8 +1656,8 @@
     ]
   },
   {
-    "ville_id": "v37",
-    "ville_name": "Khouribga",
+    "city_id": "v37",
+    "city_name": "Khouribga",
     "data": [
       {
         "date": "07/06/2021",
@@ -1702,8 +1702,8 @@
     ]
   },
   {
-    "ville_id": "v38",
-    "ville_name": "Casablanca",
+    "city_id": "v38",
+    "city_name": "Casablanca",
     "data": [
       {
         "date": "07/06/2021",
@@ -1748,8 +1748,8 @@
     ]
   },
   {
-    "ville_id": "v39",
-    "ville_name": "Mohammédia",
+    "city_id": "v39",
+    "city_name": "Mohammédia",
     "data": [
       {
         "date": "07/06/2021",
@@ -1794,8 +1794,8 @@
     ]
   },
   {
-    "ville_id": "v40",
-    "ville_name": "El Jadida",
+    "city_id": "v40",
+    "city_name": "El Jadida",
     "data": [
       {
         "date": "07/06/2021",
@@ -1840,8 +1840,8 @@
     ]
   },
   {
-    "ville_id": "v41",
-    "ville_name": "Nouaceur",
+    "city_id": "v41",
+    "city_name": "Nouaceur",
     "data": [
       {
         "date": "07/06/2021",
@@ -1886,8 +1886,8 @@
     ]
   },
   {
-    "ville_id": "v42",
-    "ville_name": "Médiouna",
+    "city_id": "v42",
+    "city_name": "Médiouna",
     "data": [
       {
         "date": "07/06/2021",
@@ -1932,8 +1932,8 @@
     ]
   },
   {
-    "ville_id": "v43",
-    "ville_name": "Benslimane",
+    "city_id": "v43",
+    "city_name": "Benslimane",
     "data": [
       {
         "date": "07/06/2021",
@@ -1978,8 +1978,8 @@
     ]
   },
   {
-    "ville_id": "v44",
-    "ville_name": "Berrechid",
+    "city_id": "v44",
+    "city_name": "Berrechid",
     "data": [
       {
         "date": "07/06/2021",
@@ -2024,8 +2024,8 @@
     ]
   },
   {
-    "ville_id": "v45",
-    "ville_name": "Settat",
+    "city_id": "v45",
+    "city_name": "Settat",
     "data": [
       {
         "date": "07/06/2021",
@@ -2070,8 +2070,8 @@
     ]
   },
   {
-    "ville_id": "v46",
-    "ville_name": "Sidi Bennour",
+    "city_id": "v46",
+    "city_name": "Sidi Bennour",
     "data": [
       {
         "date": "07/06/2021",
@@ -2116,8 +2116,8 @@
     ]
   },
   {
-    "ville_id": "v47",
-    "ville_name": "Marrakech",
+    "city_id": "v47",
+    "city_name": "Marrakech",
     "data": [
       {
         "date": "07/06/2021",
@@ -2162,8 +2162,8 @@
     ]
   },
   {
-    "ville_id": "v48",
-    "ville_name": "Chichaoua",
+    "city_id": "v48",
+    "city_name": "Chichaoua",
     "data": [
       {
         "date": "07/06/2021",
@@ -2208,8 +2208,8 @@
     ]
   },
   {
-    "ville_id": "v49",
-    "ville_name": "Al Haouz",
+    "city_id": "v49",
+    "city_name": "Al Haouz",
     "data": [
       {
         "date": "07/06/2021",
@@ -2254,8 +2254,8 @@
     ]
   },
   {
-    "ville_id": "v50",
-    "ville_name": "El Kelaâ des Sraghna",
+    "city_id": "v50",
+    "city_name": "El Kelaâ des Sraghna",
     "data": [
       {
         "date": "07/06/2021",
@@ -2300,8 +2300,8 @@
     ]
   },
   {
-    "ville_id": "v51",
-    "ville_name": "Essaouira",
+    "city_id": "v51",
+    "city_name": "Essaouira",
     "data": [
       {
         "date": "07/06/2021",
@@ -2346,8 +2346,8 @@
     ]
   },
   {
-    "ville_id": "v52",
-    "ville_name": "Rehamna",
+    "city_id": "v52",
+    "city_name": "Rehamna",
     "data": [
       {
         "date": "07/06/2021",
@@ -2392,8 +2392,8 @@
     ]
   },
   {
-    "ville_id": "v53",
-    "ville_name": "Safi",
+    "city_id": "v53",
+    "city_name": "Safi",
     "data": [
       {
         "date": "07/06/2021",
@@ -2438,8 +2438,8 @@
     ]
   },
   {
-    "ville_id": "v54",
-    "ville_name": "Youssoufia",
+    "city_id": "v54",
+    "city_name": "Youssoufia",
     "data": [
       {
         "date": "07/06/2021",
@@ -2484,8 +2484,8 @@
     ]
   },
   {
-    "ville_id": "v55",
-    "ville_name": "Errachidia",
+    "city_id": "v55",
+    "city_name": "Errachidia",
     "data": [
       {
         "date": "07/06/2021",
@@ -2530,8 +2530,8 @@
     ]
   },
   {
-    "ville_id": "v56",
-    "ville_name": "Ouarzazate",
+    "city_id": "v56",
+    "city_name": "Ouarzazate",
     "data": [
       {
         "date": "07/06/2021",
@@ -2576,8 +2576,8 @@
     ]
   },
   {
-    "ville_id": "v57",
-    "ville_name": "Midelt",
+    "city_id": "v57",
+    "city_name": "Midelt",
     "data": [
       {
         "date": "07/06/2021",
@@ -2622,8 +2622,8 @@
     ]
   },
   {
-    "ville_id": "v58",
-    "ville_name": "Tinghir",
+    "city_id": "v58",
+    "city_name": "Tinghir",
     "data": [
       {
         "date": "07/06/2021",
@@ -2668,8 +2668,8 @@
     ]
   },
   {
-    "ville_id": "v59",
-    "ville_name": "Zagora",
+    "city_id": "v59",
+    "city_name": "Zagora",
     "data": [
       {
         "date": "07/06/2021",
@@ -2714,8 +2714,8 @@
     ]
   },
   {
-    "ville_id": "v60",
-    "ville_name": "Agadir Ida-Outanane",
+    "city_id": "v60",
+    "city_name": "Agadir Ida-Outanane",
     "data": [
       {
         "date": "07/06/2021",
@@ -2760,8 +2760,8 @@
     ]
   },
   {
-    "ville_id": "v61",
-    "ville_name": "Inezgane-Aït Melloul",
+    "city_id": "v61",
+    "city_name": "Inezgane-Aït Melloul",
     "data": [
       {
         "date": "07/06/2021",
@@ -2806,8 +2806,8 @@
     ]
   },
   {
-    "ville_id": "v62",
-    "ville_name": "Chtouka-Aït Baha",
+    "city_id": "v62",
+    "city_name": "Chtouka-Aït Baha",
     "data": [
       {
         "date": "07/06/2021",
@@ -2852,8 +2852,8 @@
     ]
   },
   {
-    "ville_id": "v63",
-    "ville_name": "Taroudant",
+    "city_id": "v63",
+    "city_name": "Taroudant",
     "data": [
       {
         "date": "07/06/2021",
@@ -2898,8 +2898,8 @@
     ]
   },
   {
-    "ville_id": "v64",
-    "ville_name": "Tiznit",
+    "city_id": "v64",
+    "city_name": "Tiznit",
     "data": [
       {
         "date": "07/06/2021",
@@ -2944,8 +2944,8 @@
     ]
   },
   {
-    "ville_id": "v65",
-    "ville_name": "Tata",
+    "city_id": "v65",
+    "city_name": "Tata",
     "data": [
       {
         "date": "07/06/2021",
@@ -2990,8 +2990,8 @@
     ]
   },
   {
-    "ville_id": "v66",
-    "ville_name": "Guelmim",
+    "city_id": "v66",
+    "city_name": "Guelmim",
     "data": [
       {
         "date": "07/06/2021",
@@ -3036,8 +3036,8 @@
     ]
   },
   {
-    "ville_id": "v67",
-    "ville_name": "Assa-Zag",
+    "city_id": "v67",
+    "city_name": "Assa-Zag",
     "data": [
       {
         "date": "07/06/2021",
@@ -3082,8 +3082,8 @@
     ]
   },
   {
-    "ville_id": "v68",
-    "ville_name": "Tan-Tan",
+    "city_id": "v68",
+    "city_name": "Tan-Tan",
     "data": [
       {
         "date": "07/06/2021",
@@ -3128,8 +3128,8 @@
     ]
   },
   {
-    "ville_id": "v69",
-    "ville_name": "Sidi Ifni",
+    "city_id": "v69",
+    "city_name": "Sidi Ifni",
     "data": [
       {
         "date": "07/06/2021",
@@ -3174,8 +3174,8 @@
     ]
   },
   {
-    "ville_id": "v70",
-    "ville_name": "Laâyoune",
+    "city_id": "v70",
+    "city_name": "Laâyoune",
     "data": [
       {
         "date": "07/06/2021",
@@ -3220,8 +3220,8 @@
     ]
   },
   {
-    "ville_id": "v71",
-    "ville_name": "Boujdour",
+    "city_id": "v71",
+    "city_name": "Boujdour",
     "data": [
       {
         "date": "07/06/2021",
@@ -3266,8 +3266,8 @@
     ]
   },
   {
-    "ville_id": "v72",
-    "ville_name": "Tarfaya",
+    "city_id": "v72",
+    "city_name": "Tarfaya",
     "data": [
       {
         "date": "07/06/2021",
@@ -3312,8 +3312,8 @@
     ]
   },
   {
-    "ville_id": "v73",
-    "ville_name": "Es-Semara",
+    "city_id": "v73",
+    "city_name": "Es-Semara",
     "data": [
       {
         "date": "07/06/2021",
@@ -3358,8 +3358,8 @@
     ]
   },
   {
-    "ville_id": "v74",
-    "ville_name": "Oued Ed-Dahab",
+    "city_id": "v74",
+    "city_name": "Oued Ed-Dahab",
     "data": [
       {
         "date": "07/06/2021",
@@ -3404,8 +3404,8 @@
     ]
   },
   {
-    "ville_id": "v75",
-    "ville_name": "Aousserd",
+    "city_id": "v75",
+    "city_name": "Aousserd",
     "data": [
       {
         "date": "07/06/2021",

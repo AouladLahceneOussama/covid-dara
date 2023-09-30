@@ -2,7 +2,7 @@
   {
     "region_id": "R1",
     "region_name": "Tanger-Tétouan-Al Hoceïma",
-    "villes": [
+    "cities": [
       "v1",
       "v2",
       "v3",
@@ -58,7 +58,7 @@
   {
     "region_id": "R2",
     "region_name": "L'Oriental",
-    "villes": [
+    "cities": [
       "v9",
       "v10",
       "v11",
@@ -114,7 +114,7 @@
   {
     "region_id": "R3",
     "region_name": "Fès-Meknès",
-    "villes": [
+    "cities": [
       "v17",
       "v18",
       "v19",
@@ -171,7 +171,7 @@
   {
     "region_id": "R4",
     "region_name": "Rabat-Salé-Kénitra",
-    "villes": [
+    "cities": [
       "v26",
       "v27",
       "v28",
@@ -226,7 +226,7 @@
   {
     "region_id": "R5",
     "region_name": "Béni Mellal-Khénifra",
-    "villes": [
+    "cities": [
       "v33",
       "v34",
       "v35",
@@ -279,7 +279,7 @@
   {
     "region_id": "R6",
     "region_name": "Casablanca-Settat",
-    "villes": [
+    "cities": [
       "v38",
       "v39",
       "v40",
@@ -336,7 +336,7 @@
   {
     "region_id": "R7",
     "region_name": "Marrakech-Safi",
-    "villes": [
+    "cities": [
       "v47",
       "v48",
       "v49",
@@ -392,7 +392,7 @@
   {
     "region_id": "R8",
     "region_name": "Drâa-Tafilalet",
-    "villes": [
+    "cities": [
       "v55",
       "v56",
       "v57",
@@ -445,7 +445,7 @@
   {
     "region_id": "R9",
     "region_name": "Souss-Massa",
-    "villes": [
+    "cities": [
       "v60",
       "v61",
       "v62",
@@ -499,7 +499,7 @@
   {
     "region_id": "R10",
     "region_name": "Guelmim-Oued Noun",
-    "villes": [
+    "cities": [
       "v66",
       "v67",
       "v68",
@@ -551,7 +551,7 @@
   {
     "region_id": "R11",
     "region_name": "Laâyoune-Sakia El Hamra",
-    "villes": [
+    "cities": [
       "v70",
       "v71",
       "v72",
@@ -603,7 +603,7 @@
   {
     "region_id": "R12",
     "region_name": "Dakhla-Oued Ed-Dahab",
-    "villes": [
+    "cities": [
       "v74",
       "v75"
     ],
